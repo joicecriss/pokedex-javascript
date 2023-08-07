@@ -1,5 +1,5 @@
 * {
-    font-family: 'Roboto', 'sans-serif';
+    font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
 
@@ -8,10 +8,10 @@ body {
 }
 
 .content {
+    width: 100vw;
+    height: 100vh;
     padding: 1rem;
     background-color: #fff;
-    width: 100vh;
-    height: 100vh;
 }
 
 @media screen and (min-width: 992px) {
